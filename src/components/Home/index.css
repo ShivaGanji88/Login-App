@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.first-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-color: transparent;
+  box-shadow: inset;
+}
+
+.second-container {
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 500px;
+  align-items: center;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
